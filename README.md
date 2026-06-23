@@ -1,4 +1,3 @@
-# sistem-pancatatan-lalu-lintas-kendaraan
 # Sistem Pencatatan Lalu Lintas Kendaraan
 
 ## Deskripsi
